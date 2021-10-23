@@ -1,0 +1,17 @@
+nav{
+    font-size: 1.2rem;    
+}
+header{
+    background-image: url("ba1.jpg");
+    
+    background-position-y: -13rem;
+    height: 50rem;
+    font-size: 1.2rem;
+    /* opacity: 0.5; */
+}
+.textoHeader{
+    margin-top: 20rem;
+}
+#ignite{
+        border-bottom: 2px black dotted;
+}
